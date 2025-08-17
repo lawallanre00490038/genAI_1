@@ -565,19 +565,3 @@ generated_texts = generate_descriptions_with_chain(llm, prompts)
 - **CLIP warnings**: CLIP is a proxy for visual alignment. Low CLIP score doesn't always mean wrong description.
 
 ---
-
-## 9) Files created for you (download)
-
-- Script: `pipeline_full.py` — Full runnable script described above.
-- README (this file): `README_Product_Description_Generation_and_Evaluation_FULL.md`
-
-Save locally and run as described.
-
----
-
-If you'd like, I can:
-- Produce a condensed `requirements.txt`.
-- Convert the README into a PDF.
-- Make a runnable Jupyter notebook that walks through a 5-item demo with visualizations.
-
-Tell me which next step you prefer.
